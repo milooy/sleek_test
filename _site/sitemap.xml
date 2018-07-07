@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/sleek/super-long-article/</loc>
+<lastmod>2016-05-20T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/welcome-to-jekyll/</loc>
+<lastmod>2016-05-20T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/markdown-cheatsheet/</loc>
+<lastmod>2017-10-15T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/getting-started/</loc>
+<lastmod>2017-11-26T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/hi/</loc>
+<lastmod>2018-04-27T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sleek/</loc>
+</url>
+</urlset>
